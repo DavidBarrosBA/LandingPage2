@@ -131,13 +131,13 @@
     .sec{
         line-height: 3;
     }
-    @media (max-width: 1024px) {
+    @media (max-width: 800px) {
         .icones {
         flex: 1 1 calc(50% - 10px);
         }
     }
     
-    @media (max-width: 600px){
+    @media (max-width: 400px){
         .icones {
             flex: 1 1 100%; 
         }
